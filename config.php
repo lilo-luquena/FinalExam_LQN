@@ -2,7 +2,7 @@
 return [
     'host' => 'localhost',       
     'port' => '3307',            
-    'dbname' => 'store_catalog',
-    'username' => 'user_global',
+    'dbname' => 'bookcatalog',
+    'username' => 'user_php',
     'password' => '123'
 ];
