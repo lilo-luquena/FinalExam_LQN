@@ -10,7 +10,7 @@
 1. What is the correct file extension for PHP scripts?  
    a) .ph  
    b) .html  
-  **c) .php** 
+  **c) .php**
    d) .script  
 
 2. What does `$_FILES` represent in PHP?  
@@ -61,7 +61,7 @@
 
 9. Which keyword breaks out of a loop in PHP?  
    a) exit  
-   ** b) break  ** 
+   **b) break** 
    c) continue  
    d) stop  
 
